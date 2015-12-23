@@ -1,0 +1,41 @@
+X: 1
+T: Moonlight Sonata
+M: 2/4
+L: 1/16
+Q:1/4=30
+K:E
+(3G,CE (3G,CE (3G,CE (3G,CE|(3G,CE (3G,CE (3G,CE (3G,CE|
+(3A,CE (3A,CE (3A,=DF (3A,=DF|(3G,=CF (3G,^CE (3G,C^D (3F,=CD|
+(3E,G,^C G,/2z(3EG,C(3EGCG/2|(3GDF (3G,DF (3G,DF G/2DG/2|
+(3GCE (3G,CE (3ACF (3A,CF|(3GB,E G,/2z(3EFB,D/2 B3/2D/2|
+(3EB,E G,/2z(3EG,B,E/2 G,/2zE/2|(3=G,B,E =G,/2z(3E=G,B,E/2 =G3/2=G/2|
+(3=G=D=F (3=G,=D=F (3=G,=D=F =G/2=D=G/2|(3=G=CE (3=G,B,E (3=G,^CE (3^FCE|
+(3FB,=D F,/2z(3=D=GB,=D/2 E3/2=D/2|(3FB,=D F,/2z(3=DF^A,(3CF,^A,C/2|
+(3B,=DF (3B,=DF (3B,^DF (3BDF|(3=cE=G (3B,E=G (3B,E=G (3^AE=G|
+(3BDF (3B,DF (3B,DF (3BDF|(3=cE=G (3B,E=G (3B,E=G (3^AE=G|
+(3BDF (3B,DF (3B=D=F (3B,=D=F|(3BC^G (3B,CG (3=AC^F (3=A,CF|
+(3=GB,=D =G,/2z(3=DFA,^D/2 F,/2zD/2|(3CF,A, (3C,F,A, (3CF,^G, (3C=F,G,|
+(3^F,^A,C ^A,/2z(3FCF(3^G^cFc/2|(3cGB (3CGB (3CGB c/2Gc/2|
+(3cFA (3CFA (3=cFA (3^cFA|(3dFG (3DFG (3DFG (3dFG|
+(3e=Gc (3E=Gc (3dFA (3cD^A|(3=c=CD (3^G=CD (3=A=CD F/2zD/2|
+D/2(3=CDG,(3=CD=A,(3=CDF,=CD/2|(3E,EG (3^cEG (3eEG c/2zG/2|
+G/2(3E,G,^C(3E,G,E(3E,G,CE,G,/2|D,/2A,/2z =C/2z(3D=CF(3DAF=c/2|
+E,/2^C/2z (3ECG E/2^c/2z e/2c/2z|C/2=G/2z (3^A=Gc ^A/2e/2z (3=ge^a|
+F/2=c/2z (3d=cf d/2=a/2z (3=c'ad|(3=c'fa d/2f/2z (3d=A=c F/2A/2z|
+(3F=CD A,/2=C/2z (3A,D,F, (3C,F,A,|(3=C,F,G, (3A,G,F, (3D,F,A, (3^C,F,A,|
+(3=C,F,G, (3A,G,F, (3=D,F,A, (3^C,F,A,|(3=C,F,G, (3A,G,F, (3^C,E,^C C,/2zC/2|
+(3^D,A,C D,/2z(3CD,G,=C/2 D,/2z=C/2|(3E,G,^C G,/2z(3EG,C(3E^GCG/2|
+(3G,DF (3G,DF (3G,DF G/2DG/2|(3GCE (3G,CE (3ACF (3A,CF|
+(3GB,E G,/2z(3EFB,D/2 B3/2D/2|(3EB,E B,/2z(3GB,E(3GBEB/2|
+(3B,FA (3B,FA (3B,FA B/2FB/2|(3BEG (3B,EG (3=cFG (3^cEG|
+(3dFG (3DFG (3eGc (3EGc|(3=dFA (3=DFA (3=cFG (3=CFG|
+(3^cEG (3^CEG (3C=FG (3c=FG|(3=d^FA (3CFA (3CFA (3=cFA|
+(3^c=FG (3C=FG (3C=FG (3c=FG|(3=d^FA (3CFA (3CFA (3=cFA|
+(3^c=FG (3C=FG (3c^FA (3CFA|(3BFA (3B,FA (3B,FA (3BEG|
+(3AEG (3A^DF (3GDF (3GCE|(3FCD (3F,CD (3GCD (3ACD|
+(3GCE (3G,CE (3G=CD (3F,=CD|(3^CG,C G,/2z(3EG,CE/2 G,/2zE/2|
+(3G,DF (3G,DF (3G,DF G,/2zF/2|G,/2E/2z (3GEc G/2e/2z =g/2e/2z|
+=c/2f/2z (3=cFA D/2F/2z =C/2G,/2z|^C/2E/2z (3GE^c G/2e/2z ^g/2e/2z|
+=c/2^d/2z (3=cFA D/2F/2z =C/2G,/2z|(3^CG,C E/2C/2z (3C,E,G, C/2G,/2z|
+z/2(3C,E,G,E,/2z G,/2C3/2 E,/2G,3/2|C,4 C4|
+
